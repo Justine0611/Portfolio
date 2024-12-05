@@ -1,0 +1,103 @@
+h1 {
+	text-align:center;
+	font-family:cursive;
+	color:#ff8fd2;
+	background-image:url('lune.jpeg');
+	
+}
+.informations{	padding-left:1000px;
+margin-top: -200px;
+
+}
+.I{
+	padding-left:1000px;
+    font-size: 25px;
+    background-color:#FF1CAE ;
+    border-radius: 10px;
+    padding:30px;
+	margin-right:50px;
+	margin-left:800px;
+	
+}
+.presentation{
+	text-align:center;
+}
+
+.scolarité{
+	text-align:center;
+	margin: 0;
+    height:300px; /* Hauteur de la fenêtre */
+    display: flex;
+    justify-content: center; /* Alignement horizontal */
+    font-size: 25px;
+    background-color: skyblue;
+    border-radius: 10px 30px 30px 90px;
+	top:40px;
+   
+
+    
+	
+}
+.taujourdhui{
+	text-align:center;
+	padding:20px;
+	color:#007FFF;
+	background-color:yellow;
+	
+	
+}
+.Aujourdhui{
+	text-align:center;
+	color:#007FFF;
+	background-color:yellow;
+	
+}
+.surmoi{
+	text-align:center;
+	background-color:#FF1CAE
+	
+}
+.r{ width :300px;
+height:300px;
+margin-left:500px;
+
+}
+.P{
+width :200px;
+height:200px;
+position: relative; /* ou absolute selon le contexte */
+ left: -400px; /* Déplace l'image vers la gauche */
+
+	
+}
+body{
+	background-color:#9370DB;
+}
+.danse{
+	text-align:center;
+}
+.dance{
+	margin-left:570px;
+}
+.vélo{
+	text-align:center;
+}
+.v{
+	margin-left:570px;
+}
+.musique{
+	text-align:center;
+}
+.m{
+	margin-left:520px;
+}
+.P{
+	float:center;
+	color:yellow;
+	margin-left: 640px;
+
+}
+.PRIX{
+	margin-left:600px;
+	
+}
